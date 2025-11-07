@@ -1,1 +1,4 @@
-
+-----BEGIN PRIVATE KEY-----
+sample
+-----END PRIVATE KEY-----
+OCI_API_KEY
